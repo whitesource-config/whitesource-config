@@ -1,9 +1,9 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-	"configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/whitesource-config/whitesource-config/raw/main/configs/ua_with_dev_dependencies.config",
     "projectToken": "",
-	"baseBranches": []
+    "baseBranches": []
   },
   "checkRunSettings": {
     "displayMode": "diff",
